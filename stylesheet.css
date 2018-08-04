@@ -14,8 +14,7 @@ header {
 
 .header-left {
   float: left;
-  background-color: rgb(255, 255, 255,);
-  transition: all 0.5s;
+
   font-size:20px;
 }
 
@@ -41,6 +40,7 @@ header {
 
 
 
+
 .header-right {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
@@ -62,10 +62,43 @@ header {
 
 .top-wrapper{
   padding:180px 0 100px 0;
-  background-image:url(https://raw.githubusercontent.com/tomo4987/join/master/umi0001-001.jpg);
+  background-image:url(https://github.com/tomo4987/join/blob/master/umi0001-001.jpg);
   color:white;
  background-size:cover;
+   text-align: center;
 }
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+
+
+
+
+.fa {
+  margin-right: 5px;
+}
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+
+
 
 
 .cont{
@@ -84,7 +117,12 @@ header {
   height: 120px;
   padding: 40px;
 }
+.footer:hover{
+    opacity: 1;
+}
+
 .footer a {
+
   color:white;
 }
 .footer-l {
@@ -103,3 +141,4 @@ header {
 .footer-r li {
   padding-bottom: 20px;
 }
+
