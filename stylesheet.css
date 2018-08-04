@@ -28,19 +28,6 @@ header {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 .header-list {
   float: left;
 }
@@ -51,11 +38,6 @@ header {
   float: left;
   padding: 5px 50px;
 }
-
-
-
-
-
 
 
 
@@ -78,30 +60,21 @@ header {
 
 
 
+.top-wrapper{
+  padding:180px 0 100px 0;
+  background-image:url(https://github.com/tomo4987/join/blob/master/umi0001-001.jpg);
+  color:white;
+ background-size:cover;
+}
 
 
-
-
-
-
-
-
-
-.main1{
+.cont{
   height:600px;
 }
 
 .main-cont{
     height:50px;
 }
-
-
-
-
-
-
-
-
 
 
 
